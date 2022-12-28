@@ -18,7 +18,7 @@ The material contained herein was REmastered line-by-line into Markdown format t
 <details>
  <summary>Why Markdown format?</summary>
 
-Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using any number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs, and messages, or to simply create rich text using a plain text or markdown editor.
+Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). By its very nature, being a plain text file, it is designed to add future-proofing to any set of documents while still maintaining basic text and table formatting options. In addition, Markdown may be exported to HTML and many other formats using a number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs, and messages, or to simply create rich text using plain text in a Markdown editor.
 
 </details>
 
@@ -30,7 +30,7 @@ I recommend using the following Markdown applications to edit the material:
 * [Typora](https://typora.io): $15 (Pay Once)
 * [Visual Studio Code](https://code.visualstudio.com/Download): FREE!
 
-To export Markdown to various publishing formats, I recommend using [PanWriter](https://panwriter.com). However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
+To export Markdown to various publishing formats, I recommend using Typora (listed above) as it has many good export options which will satify the majority of users. Most any good Markdown editors will offer basic exports. However, if you want more options, [PanWriter](https://panwriter.com) is the best solution. However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
 
 * [Download PanDoc](https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-macOS.pkg)
 
@@ -69,9 +69,9 @@ Feel free to visit our [discussion](https://github.com/OldManUmby/OGL-SRD5/discu
 <details>
  <summary>Get Downloads</summary>
 
-* Download the latest [Release](https://github.com/OldManUmby/DND.SRD.Wiki/releases), which includes the complete repository of all files.
+* Download the latest [Release](https://github.com/OldManUmby/DND.SRD.Wiki/releases).
 * Download Wizard's official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
-* Download Wizard's official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
+* Download Wizard's official [Errata and Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 * Download Wizard's official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
 </details>
